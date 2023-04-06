@@ -1,0 +1,8 @@
+conda install python=3.10.9
+pip install jupyter
+pip install bio-python=1.81
+conda install -c bioconda muscle=3.8.1551
+sudo apt install ncbi-tools-bin
+conda install -c bioconda emboss=6.6.0
+conda install -c bioconda blast=2.12.0
+
