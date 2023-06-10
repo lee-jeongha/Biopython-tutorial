@@ -18,4 +18,8 @@ muscle=3.8.1551
 ncbi-tools-bin=6.1
 emboss=6.6.0
 blast=2.12.0
+mmtf-python==1.1.3
+msms==2.6.1
+phyml==3.3.20190909
+paml==4.9
 ```
