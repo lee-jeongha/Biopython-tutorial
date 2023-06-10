@@ -1,0 +1,66 @@
+LOCUS       NC_003071           19698289 bp    DNA     linear   CON 10-APR-2023
+DEFINITION  Arabidopsis thaliana chromosome 2, partial sequence.
+ACCESSION   NC_003071
+VERSION     NC_003071.7
+DBLINK      BioProject: PRJNA116
+            BioSample: SAMN03081427
+            Assembly: GCF_000001735.4
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 19698289)
+  AUTHORS   Lin,X., Kaul,S., Rounsley,S., Shea,T.P., Benito,M.I., Town,C.D.,
+            Fujii,C.Y., Mason,T., Bowman,C.L., Barnstead,M., Feldblyum,T.V.,
+            Buell,C.R., Ketchum,K.A., Lee,J., Ronning,C.M., Koo,H.L.,
+            Moffat,K.S., Cronin,L.A., Shen,M., Pai,G., Van Aken,S., Umayam,L.,
+            Tallon,L.J., Gill,J.E., Adams,M.D., Carrera,A.J., Creasy,T.H.,
+            Goodman,H.M., Somerville,C.R., Copenhaver,G.P., Preuss,D.,
+            Nierman,W.C., White,O., Eisen,J.A., Salzberg,S.L., Fraser,C.M. and
+            Venter,J.C.
+  TITLE     Sequence and analysis of chromosome 2 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 402 (6763), 761-768 (1999)
+   PUBMED   10617197
+REFERENCE   2  (bases 1 to 19698289)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 19698289)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   4  (bases 1 to 19698289)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            The reference sequence is identical to CP002685.
+            
+            On Jun 19, 2009 this sequence version replaced NC_003071.6.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: TAIR and Araport
+            Annotation Status   :: Full annotation
+            Annotation Pipeline :: Eukaryotic Annotation Propagation Pipeline
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..19698289
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="2"
+                     /ecotype="Columbia"
+CONTIG      join(CP002685.1:1..19698289)
+//
+

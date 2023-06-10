@@ -1,0 +1,83 @@
+LOCUS       NC_003070           30427671 bp    DNA     linear   CON 20-OCT-2022
+DEFINITION  Arabidopsis thaliana chromosome 1 sequence.
+ACCESSION   NC_003070
+VERSION     NC_003070.9
+DBLINK      BioProject: PRJNA116
+            BioSample: SAMN03081427
+            Assembly: GCF_000001735.4
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 30427671)
+  AUTHORS   Theologis,A., Ecker,J.R., Palm,C.J., Federspiel,N.A., Kaul,S.,
+            White,O., Alonso,J., Altafi,H., Araujo,R., Bowman,C.L.,
+            Brooks,S.Y., Buehler,E., Chan,A., Chao,Q., Chen,H., Cheuk,R.F.,
+            Chin,C.W., Chung,M.K., Conn,L., Conway,A.B., Conway,A.R.,
+            Creasy,T.H., Dewar,K., Dunn,P., Etgu,P., Feldblyum,T.V., Feng,J.,
+            Fong,B., Fujii,C.Y., Gill,J.E., Goldsmith,A.D., Haas,B.,
+            Hansen,N.F., Hughes,B., Huizar,L., Hunter,J.L., Jenkins,J.,
+            Johnson-Hopson,C., Khan,S., Khaykin,E., Kim,C.J., Koo,H.L.,
+            Kremenetskaia,I., Kurtz,D.B., Kwan,A., Lam,B., Langin-Hooper,S.,
+            Lee,A., Lee,J.M., Lenz,C.A., Li,J.H., Li,Y., Lin,X., Liu,S.X.,
+            Liu,Z.A., Luros,J.S., Maiti,R., Marziali,A., Militscher,J.,
+            Miranda,M., Nguyen,M., Nierman,W.C., Osborne,B.I., Pai,G.,
+            Peterson,J., Pham,P.K., Rizzo,M., Rooney,T., Rowley,D., Sakano,H.,
+            Salzberg,S.L., Schwartz,J.R., Shinn,P., Southwick,A.M., Sun,H.,
+            Tallon,L.J., Tambunga,G., Toriumi,M.J., Town,C.D., Utterback,T.,
+            Van Aken,S., Vaysberg,M., Vysotskaia,V.S., Walker,M., Wu,D., Yu,G.,
+            Fraser,C.M., Venter,J.C. and Davis,R.W.
+  TITLE     Sequence and analysis of chromosome 1 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 408 (6814), 816-820 (2000)
+   PUBMED   11130712
+REFERENCE   2  (bases 1 to 30427671)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 30427671)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-2017) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   4  (bases 1 to 30427671)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   5  (bases 1 to 30427671)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            The reference sequence is identical to CP002684.
+            
+            On Jun 19, 2009 this sequence version replaced NC_003070.8.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: TAIR and Araport
+            Annotation Status   :: Full annotation
+            Annotation Pipeline :: Eukaryotic Annotation Propagation Pipeline
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..30427671
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="1"
+                     /ecotype="Columbia"
+CONTIG      join(CP002684.1:1..30427671)
+//
+
