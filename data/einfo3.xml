@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE eInfoResult PUBLIC "-//NLM//DTD eInfoResult, 11 May 2002//EN" "https://www.ncbi.nlm.nih.gov/entrez/query/DTD/eInfo_020511.dtd">
+<eInfoResult>
+    <DbInfo>
+    <DbName>pubmed</DbName>
+    <MenuName>PubMed</MenuName>
+    <Description>PubMed bibliographic record</Description>
+    <Count>20161961</Count>
+    <LastUpdate>2010/09/10 04:52</LastUpdate>
+    <FieldList>
+        <Field>
+            ...
+        </Field>
+    </FieldList>
+    <DocsumList>
+        <Docsum>
+            <DsName>PubDate</DsName>
+            <DsType>4</DsType>
+            <DsTypeName>string</DsTypeName>
+        </Docsum>
+        <Docsum>
+            <DsName>EPubDate</DsName>
+            ...
+        </Docsum>
+    </DocsumList>
+    </DbInfo>
+</eInfoResult>
